@@ -1,0 +1,2 @@
+# FPGA_calculater
+基于STEP-MXO2板子开发的计算器并将结果显示在数码管上
